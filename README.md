@@ -43,7 +43,10 @@ MySQL (remote/local)
 
 📂 Project Structure
 .
-├── app.py                 # Main Streamlit application
+├── app.py                 # Main Streamlit application 
+
 ├── student.db             # SQLite database (example)
+
 ├── requirements.txt       # Python dependencies
+
 └── README.md              # Project documentation
