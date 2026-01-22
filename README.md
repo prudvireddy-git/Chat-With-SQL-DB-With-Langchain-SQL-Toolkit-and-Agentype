@@ -32,12 +32,15 @@ MySQL (remote/local)
 🔐 Secure API key input
 
 🛠️ Tech Stack
-Component	Technology
-Frontend	Streamlit
-LLM	Groq (LLaMA-3-8B-8192)
-Agent	LangChain SQL Agent
-Database	SQLite / MySQL
-ORM	SQLAlchemy
+ Component	Technology
+ Frontend	Streamlit
+ LLM	Groq (LLaMA-3-8B-8192)
+ Agent	LangChain SQL Agent
+ Database	SQLite / MySQL
+ ORM	SQLAlchemy
+
+
+
 📂 Project Structure
 .
 ├── app.py                 # Main Streamlit application
